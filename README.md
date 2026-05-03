@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kayra Gündoğdu</h1>
-<h3 align="center">Full Stack Web Developer | Founder of <a href="https://www.sitepazari.com/" target="_blank">Sitepazarı Ajans</a></h3>
+<h3 align="center">Full Stack Web Developer | Founder of <a href="https://www.sitepazarı.com/" target="_blank">Sitepazarı Ajans</a></h3>
 <p align="center"><i>"Only full stack developer, only web"</i></p>
 
 <p align="center">
