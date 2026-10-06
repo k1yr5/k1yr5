@@ -1,18 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Kayra Gündoğdu</h1>
-<h3 align="center">Full Stack Web Developer | Founder of <a href="https://www.sitepazarı.com/" target="_blank">Sitepazarı Ajans</a></h3>
+<h1 align="center">Hi there 👋, I'm Betzula</h1>
+<h3 align="center">Full Stack Developer</h3>
 <p align="center"><i>"Only full stack developer, only web"</i></p>
-
-<p align="center">
-  <a href="https://tr.linkedin.com/in/kayra-gündoğdu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.sitepazari.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Website">
-  </a>
-  <a href="https://www.instagram.com/sitepazariajans/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
 
 ---
 
@@ -25,12 +13,6 @@
 </p>
 
 ---
-
-<h2 align="center">💼 Featured Projects</h2>
-
-> **[GürerÇelik](https://www.gurercelik.com/)**  
-> GürerÇelik olarak, sektördeki uzun yıllara dayanan tecrübemizle müşterilerimize en kaliteli çelik ürünlerini sunuyoruz. Modern tesislerimizde işlediğimiz ürünlerle, projelerinize değer katıyor ve güvenilir bir iş ortağı oluyoruz. Sürdürülebilirlik ve müşteri memnuniyeti temel ilkelerimizdir.
-
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
